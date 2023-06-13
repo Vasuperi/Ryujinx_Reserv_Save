@@ -13,4 +13,4 @@ and erase 2 strings somthing like (but with your path)
 After that you need for manualy launch Ryujinx.exe, then Reserv_Copy_Ryujinx.bat (open reserv copy app)
 After end playing close console window 
 
-                            8461798@gmail.com
+                        
